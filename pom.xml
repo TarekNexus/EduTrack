@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.studenthub</groupId>
-    <artifactId>studenthub</artifactId>
+    <groupId>com.edutrack</groupId>
+    <artifactId>edutrack</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>StudentHub</name>
+    <name>EduTrack</name>
     <description>Student Management System - Java Swing UI backed by Neon (PostgreSQL)</description>
 
     <properties>
@@ -37,7 +37,7 @@
     </dependencies>
 
     <build>
-        <finalName>studenthub</finalName>
+        <finalName>EduTrack</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

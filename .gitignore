@@ -2,6 +2,8 @@ target/
 *.class
 dependency-reduced-pom.xml
 assets/images/
+dist-input/
+dist-out/
 .idea/
 *.iml
 .vscode/

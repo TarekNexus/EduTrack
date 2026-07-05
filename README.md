@@ -65,7 +65,7 @@ Or build a self-contained runnable jar and launch it directly:
 
 ```powershell
 .\mvnw.cmd clean package
-java -jar target\studenthub.jar
+java -jar target\EduTrack.jar
 ```
 
 On first launch the app connects to Neon, creates the schema if it doesn't
