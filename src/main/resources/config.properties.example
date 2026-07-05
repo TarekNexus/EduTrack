@@ -1,0 +1,13 @@
+# Copy this file to "config.properties" (same folder) and fill in your Neon
+# connection details. Get these from the Neon console -> Connection Details.
+#
+# EASIEST OPTION: paste the full connection string Neon gives you here:
+db.url=postgresql://<user>:<password>@<endpoint>.neon.tech/<dbname>?sslmode=require
+
+# ---- OR, if you prefer, set the pieces individually instead of db.url ----
+# db.host=ep-example-123456.us-east-2.aws.neon.tech
+# db.port=5432
+# db.name=neondb
+# db.user=neondb_owner
+# db.password=your-password
+# db.sslmode=require

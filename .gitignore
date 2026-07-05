@@ -1,0 +1,9 @@
+target/
+*.class
+dependency-reduced-pom.xml
+assets/images/
+.idea/
+*.iml
+.vscode/
+config.properties
+.env
