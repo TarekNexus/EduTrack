@@ -8,6 +8,7 @@ Developed by **[Md. Tarek](https://tarekdev59.vercel.app/)**.
 
 ## Features
 
+
 - **Login** — admin credentials stored in the database (not hardcoded), with
   a default account seeded automatically on first run.
 - **Dashboard** — live stats (total / male / female students, department
