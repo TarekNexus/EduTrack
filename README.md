@@ -1,4 +1,4 @@
-# EduTrack
+# EduTrack 
 
 A Student Management System with a Java Swing desktop UI (light, professional
 blue theme via [FlatLaf](https://www.formdev.com/flatlaf/)) backed by a
